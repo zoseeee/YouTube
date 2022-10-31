@@ -1,0 +1,1799 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "BfEZ3lysZ6pbIvNJwIOd8m6A22M",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "GVguKJlJgFQ5BZL1t-gnsaINT_U",
+      "id": "c6ASQOwKkhk",
+      "snippet": {
+        "publishedAt": "2022-10-28T04:00:01Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "진 (Jin) 'The Astronaut' Official MV",
+        "description": "진 (Jin) 'The Astronaut' Official MV\n\nCredits:  \nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\n\nDirector of Photography: Nam Hyunwoo (MOTHER)\nB Camera Operator: EumKo\nFocus Puller:  Kim Eunki, Lee Youngwoo\n2nd AC: Park Youngseo, Go Yuntae\n3rd AC: Ahn Yeoeun\n\nLA Credits:\nProduction Company: OUT OF OFFICE CO\nExecutive Producer / Producer: Tiffany Suh\nProduction Supervisor: Sina Pars\nAssistant Production Supervisor: Nina Nwachukwu\n1st AD: Jesse Hays\n2nd AD: April Mendoza\nOffice PA: Collin Wade\nClient Liaison: Candy Yi\nLocation Manager: Laura Dominguez, Alex Dominguez\n\nCamera Assistant: Robin Kim, Peter Byun\nDrone: Alex Castillo \nDIT: Miko Hughes\n\nKey Grip: Roman Reardon\nBest Boy Grip: Adam Urban\nGrip: Nick Deverian\n\nProduction Designer: Arae Webner\nArt Coordinator: Michelle Hanzelova\nSet Decorator: Tyler Vogel\nShopper: Katie DiFlore\nProp Master: Hannah Olsen\nProp Asst: Min-jay Kang\nLeadman: Camillo Castano\nOn Set Dresser: Jason Nieblas\nSet Dresser: Kevin Ramon, Daniel Cosenza, Jeffrey Garcia, Andrew Kosum, Ian Buckley\n\nFeatured Talent Stylist: Ann-Marie Hoang\nSet Teacher: Scott Plimpton\nGang Boss:  David Gonzalez\nMoho Drivers: Chris Mortimore, Rich Seitz, Darren Craig\nStakebed: Dylan Myers\nCraft Services:  Jimmy Campbell, Eva Scott\nSet Medic: Simon Kim, Jesus Ramos\nCCM: Alice Biletska\nCCA: Vlad Klimchuk\n\nPA: Josh Collins, Rudy Reyes, EJ Smith, Kyler Simmons, Dylan Sutherland, Randy Dizon, Jack Runnels, Jakob Hunter, Chris Fambro, Ryan Hall, Omar Guiterrez, Segye Jun, Rene Peraza, Saeed Chabayta\n\nSeoul Credits:\nProduction designer / Art director: Bona Kim & Jinsil Park (Mu:E)\nAssistant art director: Minjung Kim, A yeong Choi (Mu:E)\nTeam Mu:E: Jooho Jeong, Tae-gwan Nam, June Heo, Dae-young Kim, Seung-min Lee\nArt-team Manager: Ilho Heo (Mu:E)\n\nGaffer: Kim Kyeong Seok\nLighting Crew: Yoonki Kim, Seo Ah Park, Hanbin Sul, Hyun Seok Oh, Minwoo Kim, Jaewoo Park\n\nVFX: SECONDFLOOR \nVFX Supervisor: Dae Young Byun\n2D Composite Lead: Ayoung  Lee\n2D Composite Artist: Young Jun Ko, Chea Young Kim\n3D/FX Lead: Hye Ju Kang\n3D/FX Artist: Geo Young You\nProject Manager: Seo Yun Kim\n\nDI: LUCID COLOUR\nCOLORIST: WONSEOK KO\nDI CREW: JAEYEON BAEK, DAIN KIM, SEO JIN JANG, JI HYUN SONG\nDI PRODUCER: IN GYEONG CHOI\n\nColdplay Unit: \nDirector: Stevie Rae Gibbs\nDP: Tim Toda\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.youtube.com/user/BANGTANTV\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com\n\n\n#진 #Jin #TheAstronaut",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c6ASQOwKkhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c6ASQOwKkhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c6ASQOwKkhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c6ASQOwKkhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c6ASQOwKkhk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "tags": ["HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "진 (Jin) 'The Astronaut' Official MV",
+          "description": "진 (Jin) 'The Astronaut' Official MV\n\nCredits:  \nDirector: Yong Seok Choi (Lumpens)\n1st AD: Jihye Yoon (Lumpens)\n2nd AD: Ran Ro (Lumpens)\n\nDirector of Photography: Nam Hyunwoo (MOTHER)\nB Camera Operator: EumKo\nFocus Puller:  Kim Eunki, Lee Youngwoo\n2nd AC: Park Youngseo, Go Yuntae\n3rd AC: Ahn Yeoeun\n\nLA Credits:\nProduction Company: OUT OF OFFICE CO\nExecutive Producer / Producer: Tiffany Suh\nProduction Supervisor: Sina Pars\nAssistant Production Supervisor: Nina Nwachukwu\n1st AD: Jesse Hays\n2nd AD: April Mendoza\nOffice PA: Collin Wade\nClient Liaison: Candy Yi\nLocation Manager: Laura Dominguez, Alex Dominguez\n\nCamera Assistant: Robin Kim, Peter Byun\nDrone: Alex Castillo \nDIT: Miko Hughes\n\nKey Grip: Roman Reardon\nBest Boy Grip: Adam Urban\nGrip: Nick Deverian\n\nProduction Designer: Arae Webner\nArt Coordinator: Michelle Hanzelova\nSet Decorator: Tyler Vogel\nShopper: Katie DiFlore\nProp Master: Hannah Olsen\nProp Asst: Min-jay Kang\nLeadman: Camillo Castano\nOn Set Dresser: Jason Nieblas\nSet Dresser: Kevin Ramon, Daniel Cosenza, Jeffrey Garcia, Andrew Kosum, Ian Buckley\n\nFeatured Talent Stylist: Ann-Marie Hoang\nSet Teacher: Scott Plimpton\nGang Boss:  David Gonzalez\nMoho Drivers: Chris Mortimore, Rich Seitz, Darren Craig\nStakebed: Dylan Myers\nCraft Services:  Jimmy Campbell, Eva Scott\nSet Medic: Simon Kim, Jesus Ramos\nCCM: Alice Biletska\nCCA: Vlad Klimchuk\n\nPA: Josh Collins, Rudy Reyes, EJ Smith, Kyler Simmons, Dylan Sutherland, Randy Dizon, Jack Runnels, Jakob Hunter, Chris Fambro, Ryan Hall, Omar Guiterrez, Segye Jun, Rene Peraza, Saeed Chabayta\n\nSeoul Credits:\nProduction designer / Art director: Bona Kim & Jinsil Park (Mu:E)\nAssistant art director: Minjung Kim, A yeong Choi (Mu:E)\nTeam Mu:E: Jooho Jeong, Tae-gwan Nam, June Heo, Dae-young Kim, Seung-min Lee\nArt-team Manager: Ilho Heo (Mu:E)\n\nGaffer: Kim Kyeong Seok\nLighting Crew: Yoonki Kim, Seo Ah Park, Hanbin Sul, Hyun Seok Oh, Minwoo Kim, Jaewoo Park\n\nVFX: SECONDFLOOR \nVFX Supervisor: Dae Young Byun\n2D Composite Lead: Ayoung  Lee\n2D Composite Artist: Young Jun Ko, Chea Young Kim\n3D/FX Lead: Hye Ju Kang\n3D/FX Artist: Geo Young You\nProject Manager: Seo Yun Kim\n\nDI: LUCID COLOUR\nCOLORIST: WONSEOK KO\nDI CREW: JAEYEON BAEK, DAIN KIM, SEO JIN JANG, JI HYUN SONG\nDI PRODUCER: IN GYEONG CHOI\n\nColdplay Unit: \nDirector: Stevie Rae Gibbs\nDP: Tim Toda\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.youtube.com/user/BANGTANTV\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com\n\n\n#진 #Jin #TheAstronaut"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "93qV0Pxi3Lj1QZ2_v015szxpp7A",
+      "id": "6Cz19hMUiDs",
+      "snippet": {
+        "publishedAt": "2022-10-28T07:00:03Z",
+        "channelId": "UCicKQUi8h4NI81wDmrDBD4A",
+        "title": "처음으로 한국 할머니 할아버지와 잔디밭에서 뛰어놀며 행복해하는 체리",
+        "description": "안녕하세요, 올리버쌤입니다. \n사실 비행기 15시간이 끝난 것이 다가 아니었어요.\n울산에 있는 처갓집까지 5시간 또 달려야 했거든요. \n긴 여정에 지쳤을텐데도 할머니 할아버지를 보며 행복해 어쩔줄 몰라하는 체리.\n체리가 할머니 할아버지와 교감하는 장면을 보고 저희도 진심으로 행복했답니다.\n그 사랑스러운 순간을 여러분과 공유합니다. \n\n[올리버쌤 도서로 학습하기]\n올리버쌤의 미국식아이영어습관365\nhttps://url.kr/udpt4h\n올리버쌤의 영어 회화 일력 365\nhttps://bit.ly/389tTbX\n올리버쌤의 영어 꿀팁\nhttp://bit.ly/2QigDck\n\n[인스타그램] \n올리버쌤 http://instagram.com/oliverkorea \n마님툰 http://instagram.com/manim_toon\\n체리 http://instagram.com/cherry_bbobbo\\n\\n[유기견 입양 신청 및 해외 이동봉사 문의]\n메일 2798catherine@gmail.com\n인스타 instagram.com/yellow_mom_",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Cz19hMUiDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Cz19hMUiDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Cz19hMUiDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Cz19hMUiDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Cz19hMUiDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "올리버쌤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "처음으로 한국 할머니 할아버지와 잔디밭에서 뛰어놀며 행복해하는 체리",
+          "description": "안녕하세요, 올리버쌤입니다. \n사실 비행기 15시간이 끝난 것이 다가 아니었어요.\n울산에 있는 처갓집까지 5시간 또 달려야 했거든요. \n긴 여정에 지쳤을텐데도 할머니 할아버지를 보며 행복해 어쩔줄 몰라하는 체리.\n체리가 할머니 할아버지와 교감하는 장면을 보고 저희도 진심으로 행복했답니다.\n그 사랑스러운 순간을 여러분과 공유합니다. \n\n[올리버쌤 도서로 학습하기]\n올리버쌤의 미국식아이영어습관365\nhttps://url.kr/udpt4h\n올리버쌤의 영어 회화 일력 365\nhttps://bit.ly/389tTbX\n올리버쌤의 영어 꿀팁\nhttp://bit.ly/2QigDck\n\n[인스타그램] \n올리버쌤 http://instagram.com/oliverkorea \n마님툰 http://instagram.com/manim_toon\\n체리 http://instagram.com/cherry_bbobbo\\n\\n[유기견 입양 신청 및 해외 이동봉사 문의]\n메일 2798catherine@gmail.com\n인스타 instagram.com/yellow_mom_"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f4-4SqTCZ2UvKS8-RasttSokaPo",
+      "id": "wCsgkD6wci4",
+      "snippet": {
+        "publishedAt": "2022-10-28T12:08:31Z",
+        "channelId": "UCEHYQlrn01RoUMjC5ubcNHQ",
+        "title": "마케도니아 장모님 생신에 깜짝 선물로 유튜브 수익금을 드렸을 때 반응?! 1년 치 월급..?",
+        "description": "#국제커플 #외국인반응 #깜짝선물\n\n나타샤 인스타: nattasha.an   https://www.instagram.com/nattasha.an/\\n병도 인스타: bondong11   https://www.instagram.com/bondong11/\\n\\n협찬및문의메일: bondon7@naver.com\n\n채널 가입 링크: https://www.youtube.com/channel/UCEHYQlrn01RoUMjC5ubcNHQ/join\\n가입 해주시면 영상 제작에 많은 힘이 됩니다~~ 🥰\n\n~~~~~~\n\nNatasha's Instagram: https://www.instagram.com/nattasha.an/\\nBD's Instagram: https://www.instagram.com/bondong11/\\nTikTok: nb_couple   https://www.tiktok.com/@nb_couple?\\n\\nBusiness email: bondon7@naver.com\n\nMembership link: https://www.youtube.com/channel/UCEHYQlrn01RoUMjC5ubcNHQ/join\\nSigning up will give us a great support for making videos~ 🥰",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wCsgkD6wci4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wCsgkD6wci4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wCsgkD6wci4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wCsgkD6wci4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wCsgkD6wci4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NB couple엔비커플",
+        "tags": [
+          "국제커플",
+          "유튜브수익금",
+          "유튜브 수익금을 드렸습니다",
+          "장모님께 유튜브 수익금 드리기",
+          "유튜브 수익금",
+          "깜짝 선물",
+          "선물",
+          "깜짝",
+          "마케도니아",
+          "북마케도니아",
+          "장모님",
+          "장모님 반응",
+          "반응",
+          "반응?!",
+          "생일 선물",
+          "장모님 생일",
+          "장모님 생신",
+          "장모님 생일 깜짝 선물",
+          "마케도니아 패밀리",
+          "패밀리",
+          "북마케도니아 패밀리",
+          "외국인 아내",
+          "한국 사위",
+          "외국인 와이프",
+          "외국인 반응",
+          "외국인 장모님",
+          "외국인 장모님 반응",
+          "유럽 장모님",
+          "국제부부",
+          "국제연애",
+          "엔비커플",
+          "엔비커플 병도",
+          "엔비커플 나타샤",
+          "깜짝 선물을 드렸을 때 반응",
+          "surprising my mom with cash",
+          "surprising my mom with youtube money",
+          "mom's reaction",
+          "surprising mom to see her reaction",
+          "international couple",
+          "amwf",
+          "nb couple",
+          "natasha and bd",
+          "mom's birthday"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "마케도니아 장모님 생신에 깜짝 선물로 유튜브 수익금을 드렸을 때 반응?! 1년 치 월급..?",
+          "description": "#국제커플 #외국인반응 #깜짝선물\n\n나타샤 인스타: nattasha.an   https://www.instagram.com/nattasha.an/\\n병도 인스타: bondong11   https://www.instagram.com/bondong11/\\n\\n협찬및문의메일: bondon7@naver.com\n\n채널 가입 링크: https://www.youtube.com/channel/UCEHYQlrn01RoUMjC5ubcNHQ/join\\n가입 해주시면 영상 제작에 많은 힘이 됩니다~~ 🥰\n\n~~~~~~\n\nNatasha's Instagram: https://www.instagram.com/nattasha.an/\\nBD's Instagram: https://www.instagram.com/bondong11/\\nTikTok: nb_couple   https://www.tiktok.com/@nb_couple?\\n\\nBusiness email: bondon7@naver.com\n\nMembership link: https://www.youtube.com/channel/UCEHYQlrn01RoUMjC5ubcNHQ/join\\nSigning up will give us a great support for making videos~ 🥰"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v9OMbn8McYSWcuDJ2fj5Aufuhm4",
+      "id": "eZxGA3UdWRo",
+      "snippet": {
+        "publishedAt": "2022-10-28T10:00:26Z",
+        "channelId": "UCkkWd02T76Zi5UcKRX0x3Bg",
+        "title": "[도장TV 79회] 제주콘서트 마친 장회장의 김치 파티!!! 초대합니다!!!",
+        "description": "제주도 콘서트 다녀온 장회장님께서 바쁜 와중, 김치요리를 해주셔서\n갬동의 물결이었습니다!\n\n이 영상은 LG전자로부터 소정의 제작비와 함께 리뷰용 제품을 대여 받아 제작했습니다.\n\n#LG디오스오브제컬렉션김치톡톡 #LG디오스오브제컬렉션 #LG김치냉장고 #도경완 #장윤정 #도연우 #도하영 #하영이 #도장TV #슈퍼맨이돌아왔다 #슈돌 #도플갱어 #도플갱어가족 \n\n비지니스메일 : coolbae7@hanmail.net",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eZxGA3UdWRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eZxGA3UdWRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eZxGA3UdWRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eZxGA3UdWRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eZxGA3UdWRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "도장TV",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[도장TV 79회] 제주콘서트 마친 장회장의 김치 파티!!! 초대합니다!!!",
+          "description": "제주도 콘서트 다녀온 장회장님께서 바쁜 와중, 김치요리를 해주셔서\n갬동의 물결이었습니다!\n\n이 영상은 LG전자로부터 소정의 제작비와 함께 리뷰용 제품을 대여 받아 제작했습니다.\n\n#LG디오스오브제컬렉션김치톡톡 #LG디오스오브제컬렉션 #LG김치냉장고 #도경완 #장윤정 #도연우 #도하영 #하영이 #도장TV #슈퍼맨이돌아왔다 #슈돌 #도플갱어 #도플갱어가족 \n\n비지니스메일 : coolbae7@hanmail.net"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RNU44vaLWDLooXSZ8bRlkHsNBFI",
+      "id": "J5n_aiqGr_s",
+      "snippet": {
+        "publishedAt": "2022-10-28T09:00:11Z",
+        "channelId": "UCwx6n_4OcLgzAGdty0RWCoA",
+        "title": "기다리다 지쳤나요? | 워크맨2",
+        "description": "JOB것들아~♥ 인력소장이다,,\n혹시,,, 지금,, 지쳤남,,,,,,~??\n\n하긴,, 원래,,, 금요일은,,,, 지치지,,\n하지만,, 울 잡것덜,, 지치지말라고,,,\n올만에,,, 추억여행,,,, 준비해봤어,,\n\n우리 담주부터 본격적인 시작이니까,,\n다덜,,, 빨리 몰려오라고,,!!\n\n세상의 모든 job것들을 리뷰한다 [워크맨]\n\n▶ 매주 금 오후 6시 공개\n일반인 출연자에 대한 지나친 비방 및 인신공격성 댓글은 관리자에 의해 삭제될 수 있습니다.\n\n#워크맨 #workman #장성규 #워크맨2\n#극한직업 #직업체험 #알바 #극한알바\n#컴백 #티저 #몰아보기 #명장면 #커밍순",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J5n_aiqGr_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J5n_aiqGr_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J5n_aiqGr_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J5n_aiqGr_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J5n_aiqGr_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "워크맨-Workman",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "기다리다 지쳤나요? | 워크맨2",
+          "description": "JOB것들아~♥ 인력소장이다,,\n혹시,,, 지금,, 지쳤남,,,,,,~??\n\n하긴,, 원래,,, 금요일은,,,, 지치지,,\n하지만,, 울 잡것덜,, 지치지말라고,,,\n올만에,,, 추억여행,,,, 준비해봤어,,\n\n우리 담주부터 본격적인 시작이니까,,\n다덜,,, 빨리 몰려오라고,,!!\n\n세상의 모든 job것들을 리뷰한다 [워크맨]\n\n▶ 매주 금 오후 6시 공개\n일반인 출연자에 대한 지나친 비방 및 인신공격성 댓글은 관리자에 의해 삭제될 수 있습니다.\n\n#워크맨 #workman #장성규 #워크맨2\n#극한직업 #직업체험 #알바 #극한알바\n#컴백 #티저 #몰아보기 #명장면 #커밍순"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "h7NW6H7-4baKClQ1ZpgqL0j25nA",
+      "id": "pUUmFuYIx5s",
+      "snippet": {
+        "publishedAt": "2022-10-28T09:15:02Z",
+        "channelId": "UCkvh3vrWsoi_cd7HyiikzIQ",
+        "title": "인테리어 끝난 한혜진 시골집 최초공개(최첨단,해물파전,막걸리)",
+        "description": "짜잔!\n안녕하세요 한혜진입니다:)\n저의 시골 집에 여러분을 초대합니다\n꾸미다보니 이 자그마한 6평 별장에 오만가지가 다 들어갔네요😊\n최첨단과 감성이 다 있는 저의 꿈의 별장!\n함께 보러가실까요?\n\n이 영상은 LG전자의 유료광고를 포함하고 있습니다\n\n영상에 나온 최첨단 정수기 링크 👉 https://bit.ly/3sAYmIW\\n\\n#한혜진 #시골집 #집들이",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUUmFuYIx5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUUmFuYIx5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUUmFuYIx5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pUUmFuYIx5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pUUmFuYIx5s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "한혜진 Han Hye Jin",
+        "tags": [
+          "한혜진",
+          "한혜진 방",
+          "한혜진 안방",
+          "한혜진 아이템",
+          "한혜진 패션",
+          "한혜진 옷장",
+          "한혜진 레전드",
+          "한혜진 예능",
+          "한혜진 스타일",
+          "한혜진 나혼산",
+          "한혜진 운동",
+          "한혜진 주방",
+          "한혜진 집",
+          "한혜진 관리",
+          "한혜진 템",
+          "한혜진 모델",
+          "모델 한혜진",
+          "한혜진 모음",
+          "나혼자산다 한혜진",
+          "한혜진 추천",
+          "한혜진 식단",
+          "한혜진 다이어트",
+          "한혜진 추천템",
+          "한혜진 유튜브",
+          "한혜진 자기관리",
+          "한혜진 모닝루틴",
+          "한혜진 박나래",
+          "한혜진 관리법",
+          "한혜진 운동법",
+          "한혜진 기안84",
+          "기안84",
+          "기안",
+          "기안84 레전드",
+          "기안84 예능",
+          "인생84",
+          "한혜진 시골",
+          "한혜진 시골집",
+          "나혼자산다",
+          "한혜진 기안",
+          "기안84 그림",
+          "기안 그림",
+          "LG퓨리케어",
+          "음성인식정수기",
+          "LG정수기",
+          "모델",
+          "한혜진 인테리어",
+          "한혜진 룩북",
+          "한혜진 하울",
+          "한혜진 옷방",
+          "한혜진 집들이",
+          "한혜진 방송",
+          "한혜진 자택",
+          "한혜진 여은파",
+          "전 부치기",
+          "한혜진 홍천",
+          "먹방",
+          "막걸리",
+          "해물파전",
+          "샤크라"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "인테리어 끝난 한혜진 시골집 최초공개(최첨단,해물파전,막걸리)",
+          "description": "짜잔!\n안녕하세요 한혜진입니다:)\n저의 시골 집에 여러분을 초대합니다\n꾸미다보니 이 자그마한 6평 별장에 오만가지가 다 들어갔네요😊\n최첨단과 감성이 다 있는 저의 꿈의 별장!\n함께 보러가실까요?\n\n이 영상은 LG전자의 유료광고를 포함하고 있습니다\n\n영상에 나온 최첨단 정수기 링크 👉 https://bit.ly/3sAYmIW\\n\\n#한혜진 #시골집 #집들이"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZESWey4Hcx2C43dHQm52kg59Dv0",
+      "id": "FqmYc62HUec",
+      "snippet": {
+        "publishedAt": "2022-10-29T06:00:10Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "진 (Jin) 'The Astronaut' (with Coldplay) @ Coldplay’s Music Of The Spheres Tour in Buenos Aires",
+        "description": "진 (Jin) 'The Astronaut' (with Coldplay) @ Coldplay’s Music Of The Spheres Tour in Buenos Aires\n\nCredits:\nDirected by Paul Dugdale\n\n#Jin #TheAstronaut #JinXColdplay #진 \n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FqmYc62HUec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FqmYc62HUec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FqmYc62HUec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FqmYc62HUec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FqmYc62HUec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "tags": [
+          "방탄소년단",
+          "BTS",
+          "BANGTAN",
+          "알엠",
+          "RM",
+          "슈가",
+          "SUGA",
+          "제이홉",
+          "jhope",
+          "지민",
+          "정국",
+          "k-pop",
+          "방탄",
+          "j-hope",
+          "Jung Kook",
+          "Jimin",
+          "BTS V",
+          "Jin"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "진 (Jin) 'The Astronaut' (with Coldplay) @ Coldplay’s Music Of The Spheres Tour in Buenos Aires",
+          "description": "진 (Jin) 'The Astronaut' (with Coldplay) @ Coldplay’s Music Of The Spheres Tour in Buenos Aires\n\nCredits:\nDirected by Paul Dugdale\n\n#Jin #TheAstronaut #JinXColdplay #진 \n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LQYHIRX6c5i6KjJvQAUaw5OYP3o",
+      "id": "SJ_TeXbG8Ps",
+      "snippet": {
+        "publishedAt": "2022-10-26T10:04:47Z",
+        "channelId": "UC__J0wvxgqq4kg3i5iTgkLQ",
+        "title": "[EN] 이대호 왔어요! 39인분 소고기 아침 식사! 부산에서 만나요~ [둘이 왔어요 EP72]",
+        "description": "이대호 왔어요! \n\n아침 식사로 소 등심, 갈빗살, 불고기를 먹으러 부산까지 간 운동부! \n\n현주엽 + 이대호 + 김태균 = 400kg(?)\n\n“태균아~ 그건 내 고기야😉”\n\n절친 태균이 본인 고기에 손을 대자 스윗하게 막아내는 대호! \n\n그런 대호가 맘에 드는 주엽은 그를 위해 소고기 39인분을 주문해주는데…!\n\n소고기 듬뿍 든 김치찌개로 입가심하는 그들은 아침 식사를 도대체 몇 시간 먹었을까? \n\n상쾌한 바닷 바람이 반겨주는 부산에서~ \n운동부와 함께 식사하러 가보실까요?⚾⚾🏀\n\n#현주엽 #김태균 #이대호 #운동부 #먹방",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SJ_TeXbG8Ps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SJ_TeXbG8Ps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SJ_TeXbG8Ps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SJ_TeXbG8Ps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SJ_TeXbG8Ps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "운동부 둘이 왔어요",
+        "tags": [
+          "#현주엽",
+          "#김태균",
+          "#먹방",
+          "#운동부",
+          "#농구",
+          "#야구",
+          "#축구",
+          "#소고기",
+          "#돼지고기",
+          "#갈비",
+          "#소갈비",
+          "#돼지갈비",
+          "#등심",
+          "#안심",
+          "#차돌박이",
+          "#삼겹살",
+          "#mukbang",
+          "#간장게장",
+          "#양념게장",
+          "#토시살",
+          "#안창살",
+          "#살치살",
+          "#브이로그",
+          "#라면",
+          "#여행",
+          "#캠핑",
+          "#장어구이",
+          "#꽃게탕",
+          "#곱창",
+          "#대창",
+          "#맛집",
+          "#맛집리스트",
+          "#돈가스",
+          "#항정살",
+          "#전국맛집",
+          "#한우",
+          "#한돈",
+          "#생갈비",
+          "#asmr",
+          "#토마호크",
+          "#김치찜",
+          "#BBQ",
+          "#chimaek",
+          "#galbi",
+          "bulgogi",
+          "#samgyeopsal",
+          "#막걸리",
+          "#사이다",
+          "#소주",
+          "#맥주",
+          "#서울",
+          "#비빔냉면",
+          "#육회",
+          "#킹크랩",
+          "#랍스타",
+          "#복분자",
+          "#복분자주",
+          "#해산물",
+          "#차돌된장찌개",
+          "#배달음식추천",
+          "#저녁메뉴",
+          "#차돌박이생고기",
+          "#목포",
+          "#SportsmenMukbang",
+          "#피자",
+          "#와인",
+          "#파스타",
+          "#스테이크",
+          "#짜장면",
+          "#칠리새우",
+          "#중국음식",
+          "#수정방",
+          "#초밥",
+          "#회전초밥",
+          "족발",
+          "#갈빗살",
+          "#왕갈비",
+          "#물냉면",
+          "#주물럭",
+          "#특등심",
+          "#EatingShow",
+          "#Steak",
+          "#소식좌",
+          "#감자탕",
+          "#이대호",
+          "#볶음밥",
+          "#부산"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[EN] 이대호 왔어요! 39인분 소고기 아침 식사! 부산에서 만나요~ [둘이 왔어요 EP72]",
+          "description": "이대호 왔어요! \n\n아침 식사로 소 등심, 갈빗살, 불고기를 먹으러 부산까지 간 운동부! \n\n현주엽 + 이대호 + 김태균 = 400kg(?)\n\n“태균아~ 그건 내 고기야😉”\n\n절친 태균이 본인 고기에 손을 대자 스윗하게 막아내는 대호! \n\n그런 대호가 맘에 드는 주엽은 그를 위해 소고기 39인분을 주문해주는데…!\n\n소고기 듬뿍 든 김치찌개로 입가심하는 그들은 아침 식사를 도대체 몇 시간 먹었을까? \n\n상쾌한 바닷 바람이 반겨주는 부산에서~ \n운동부와 함께 식사하러 가보실까요?⚾⚾🏀\n\n#현주엽 #김태균 #이대호 #운동부 #먹방"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FB7aySqxkkG588hJptBFNCRUe_o",
+      "id": "PHEb96pRMn4",
+      "snippet": {
+        "publishedAt": "2022-10-27T08:00:09Z",
+        "channelId": "UCUyfkq9e9ZfPzxOW5WQ9rzQ",
+        "title": "(ENG) 영국 톱가수 앤-마리 한국 직장인 성량에 속절없이 발리네ㅋㅋㅋㅋ데뷔 이후 첫 은퇴 위기를 느껴버린 것 같은데 아무래도? (feat.2002) / [문명특급 EP.262]",
+        "description": "7년 차 한국 직장인 회식 성량엔 역시 앤-마리도 안 되나봐요^^\n콘서트보다 더 열심히 부르는 거 아님?\n두 눈 부릅뜬 것좀 보세요 여러분\n\n#앤마리 #2002 #포사걸\n\n총괄 기획/하현종  진행/이은재  기획/이규희  구성/이은재 이규희  촬영/다올미디어  브랜드디자인/김하경  CG/김하경 김한솔  담당인턴/김유진 이지흔 정영서  행정/박미림  자막/정서영  조연출 ·편집/김나현  연출/홍민지  제작/SBS디지털뉴스랩 크리에이티브 사업부문",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PHEb96pRMn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PHEb96pRMn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PHEb96pRMn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PHEb96pRMn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PHEb96pRMn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "문명특급 - MMTG",
+        "tags": [
+          "앤마리",
+          "anne marie",
+          "anne-marie",
+          "2002",
+          "rockabye",
+          "문명특급",
+          "문특",
+          "psycho",
+          "mmtg",
+          "재재",
+          "jaejae",
+          "포사걸",
+          "포도나무사랑걸렸네",
+          "떼창",
+          "한국",
+          "내한",
+          "birthday",
+          "노래방",
+          "karaoke",
+          "interview",
+          "인터뷰"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "(ENG) 영국 톱가수 앤-마리 한국 직장인 성량에 속절없이 발리네ㅋㅋㅋㅋ데뷔 이후 첫 은퇴 위기를 느껴버린 것 같은데 아무래도? (feat.2002) / [문명특급 EP.262]",
+          "description": "7년 차 한국 직장인 회식 성량엔 역시 앤-마리도 안 되나봐요^^\n콘서트보다 더 열심히 부르는 거 아님?\n두 눈 부릅뜬 것좀 보세요 여러분\n\n#앤마리 #2002 #포사걸\n\n총괄 기획/하현종  진행/이은재  기획/이규희  구성/이은재 이규희  촬영/다올미디어  브랜드디자인/김하경  CG/김하경 김한솔  담당인턴/김유진 이지흔 정영서  행정/박미림  자막/정서영  조연출 ·편집/김나현  연출/홍민지  제작/SBS디지털뉴스랩 크리에이티브 사업부문"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sn76d3OINLdK1u4yeyNOjeOTyYg",
+      "id": "8-DYBQ8xQoQ",
+      "snippet": {
+        "publishedAt": "2022-10-26T10:00:05Z",
+        "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+        "title": "해버지 박지성 선수 초대석",
+        "description": "▶관련 재생목록\n  •침착맨의 일상재롱: https://goo.gl/OJ4Uoa\\n\\n▶생방송 원본\n  •2022년 10월 20일 방송분: https://youtu.be/6i3B0l8eCpA\\n\\n▶출연\\n  •박지성(@김민지의 만두랑), 배성재, 침착맨\n\n돈까스회관 - 등심+치즈: 10,900원, 등심+치킨: 8900원\n\n#침착맨 #박지성 #배성재",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8-DYBQ8xQoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8-DYBQ8xQoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8-DYBQ8xQoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8-DYBQ8xQoQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8-DYBQ8xQoQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "침착맨",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "해버지 박지성 선수 초대석",
+          "description": "▶관련 재생목록\n  •침착맨의 일상재롱: https://goo.gl/OJ4Uoa\\n\\n▶생방송 원본\n  •2022년 10월 20일 방송분: https://youtu.be/6i3B0l8eCpA\\n\\n▶출연\\n  •박지성(@김민지의 만두랑), 배성재, 침착맨\n\n돈까스회관 - 등심+치즈: 10,900원, 등심+치킨: 8900원\n\n#침착맨 #박지성 #배성재"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6AMJcRwUROAM9GAS9wWjwBRHpTg",
+      "id": "gIUjZHTUbdM",
+      "snippet": {
+        "publishedAt": "2022-10-26T20:20:00Z",
+        "channelId": "UCIfadKo7fcwSfgARMTz7xzA",
+        "title": "[나는 SOLO LIVE] 10기 커플 영철♥현숙, 저희 솔로 나라 밖에선요...!",
+        "description": "안녕하세요 촌장엔터테인먼트입니다.\n\n결혼을 간절히 원하는 솔로 남녀들이 모여 사랑을 찾기 위해 고군분투하는 극사실주의 데이팅 프로그램 '나는 솔로'\n\nSBS Plus, ENA PLAY 에서 매주 수요일 밤 10시 30분에 방영됩니다.\n\n2011년 짝 제작진이 그대로 모여 만드는 새로운 데이팅 프로그램\n우리는 여전히 결혼을 하고 싶은 분들을 위해 짝을 찾아주고자 합니다.\n\n솔로나라에서 사랑을 찾고 싶은 분들은 누구나 환영합니다.\n짝의 정신은 변함이 없습니다.  진심과 정직 그리고 애정!! \n\n'나는 솔로' 많은 시청 바랍니다.\n\n\n\n#나는솔로 #나는SOLO #솔로나라 #이이경 #데프콘 #송해나 #짝 #스트레인저",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gIUjZHTUbdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gIUjZHTUbdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gIUjZHTUbdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gIUjZHTUbdM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gIUjZHTUbdM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "촌장엔터테인먼트TV",
+        "tags": [
+          "나는솔로",
+          "나는SOLO",
+          "애정촌",
+          "데프콘",
+          "이이경",
+          "전효성",
+          "스트레인저",
+          "솔로나라",
+          "데이트",
+          "데이팅프로그램",
+          "미팅",
+          "결혼",
+          "소개팅",
+          "SBSPlus",
+          "솔로",
+          "solo",
+          "커플",
+          "듀오",
+          "영수",
+          "영호",
+          "영식",
+          "영철",
+          "정수",
+          "종수",
+          "정식",
+          "순자",
+          "영자",
+          "정순",
+          "정숙",
+          "영숙",
+          "영순",
+          "정자",
+          "송해나",
+          "옥순",
+          "현숙",
+          "광수",
+          "상철",
+          "ENA PLAY"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[나는 SOLO LIVE] 10기 커플 영철♥현숙, 저희 솔로 나라 밖에선요...!",
+          "description": "안녕하세요 촌장엔터테인먼트입니다.\n\n결혼을 간절히 원하는 솔로 남녀들이 모여 사랑을 찾기 위해 고군분투하는 극사실주의 데이팅 프로그램 '나는 솔로'\n\nSBS Plus, ENA PLAY 에서 매주 수요일 밤 10시 30분에 방영됩니다.\n\n2011년 짝 제작진이 그대로 모여 만드는 새로운 데이팅 프로그램\n우리는 여전히 결혼을 하고 싶은 분들을 위해 짝을 찾아주고자 합니다.\n\n솔로나라에서 사랑을 찾고 싶은 분들은 누구나 환영합니다.\n짝의 정신은 변함이 없습니다.  진심과 정직 그리고 애정!! \n\n'나는 솔로' 많은 시청 바랍니다.\n\n\n\n#나는솔로 #나는SOLO #솔로나라 #이이경 #데프콘 #송해나 #짝 #스트레인저"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1XK0a91UKJxaeqwdapAgY9u_HE0",
+      "id": "hhDV9oYmxng",
+      "snippet": {
+        "publishedAt": "2022-10-26T07:00:30Z",
+        "channelId": "UCicKQUi8h4NI81wDmrDBD4A",
+        "title": "태어나서 처음으로 체리가 한국 외할머니를 직접 만나는 감동적인 순간",
+        "description": "안녕하세요, 올리버쌤입니다. 정말 오랜만이죠!? \n한국 3주 여정을 마치고 지난 주 미국에 돌아와 첫 에피스드부터 공개합니다. \n저희는 한국에 3년 만에, 체리는 태어나서 처음으로 떠난 한국 여행인데요,\n저희가 도착할 때 까지 인천공항에서 목이 빠져라 기다리고 있던 체리의 외할머니...\n그동안 영상통화를 오래 해왔는데, 과연 체리는 외할머니를 알아볼까요?\n감동적인 순간을 영상으로 만나보세요! \n\n+\n긴 비행에 지치지 않도록 좋은 유모차를 보내주신 아가방도 감사드립니다. \n협업으로 알게된 유모차지만, 진심으로 너무 좋아서 한국여행 내내 잘 사용했어요. \n이지워커 미니버기턴 360, 전국 아가방 매장 및 아가방몰에서 확인해보세요!\nhttps://bit.ly/3TnwMuk\n\n#이지워커 #미니버기턴 #미니버기턴360 #절충형유모차 #휴대용유모차 #유모차추천\n\n[올리버쌤 도서로 학습하기]\n올리버쌤의 미국식아이영어습관365\nhttps://url.kr/udpt4h\n올리버쌤의 영어 회화 일력 365\nhttps://bit.ly/389tTbX\n올리버쌤의 영어 꿀팁\nhttp://bit.ly/2QigDck\n\n[인스타그램] \n올리버쌤 http://instagram.com/oliverkorea \n마님툰 http://instagram.com/manim_toon\\n체리 http://instagram.com/cherry_bbobbo\\n\\n[유기견 입양 신청 및 해외 이동봉사 문의]\n메일 2798catherine@gmail.com\n인스타 instagram.com/yellow_mom_",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hhDV9oYmxng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hhDV9oYmxng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hhDV9oYmxng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hhDV9oYmxng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hhDV9oYmxng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "올리버쌤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "태어나서 처음으로 체리가 한국 외할머니를 직접 만나는 감동적인 순간",
+          "description": "안녕하세요, 올리버쌤입니다. 정말 오랜만이죠!? \n한국 3주 여정을 마치고 지난 주 미국에 돌아와 첫 에피스드부터 공개합니다. \n저희는 한국에 3년 만에, 체리는 태어나서 처음으로 떠난 한국 여행인데요,\n저희가 도착할 때 까지 인천공항에서 목이 빠져라 기다리고 있던 체리의 외할머니...\n그동안 영상통화를 오래 해왔는데, 과연 체리는 외할머니를 알아볼까요?\n감동적인 순간을 영상으로 만나보세요! \n\n+\n긴 비행에 지치지 않도록 좋은 유모차를 보내주신 아가방도 감사드립니다. \n협업으로 알게된 유모차지만, 진심으로 너무 좋아서 한국여행 내내 잘 사용했어요. \n이지워커 미니버기턴 360, 전국 아가방 매장 및 아가방몰에서 확인해보세요!\nhttps://bit.ly/3TnwMuk\n\n#이지워커 #미니버기턴 #미니버기턴360 #절충형유모차 #휴대용유모차 #유모차추천\n\n[올리버쌤 도서로 학습하기]\n올리버쌤의 미국식아이영어습관365\nhttps://url.kr/udpt4h\n올리버쌤의 영어 회화 일력 365\nhttps://bit.ly/389tTbX\n올리버쌤의 영어 꿀팁\nhttp://bit.ly/2QigDck\n\n[인스타그램] \n올리버쌤 http://instagram.com/oliverkorea \n마님툰 http://instagram.com/manim_toon\\n체리 http://instagram.com/cherry_bbobbo\\n\\n[유기견 입양 신청 및 해외 이동봉사 문의]\n메일 2798catherine@gmail.com\n인스타 instagram.com/yellow_mom_"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FD3mY50sQPTD9Jj40qT5GBQehtA",
+      "id": "kUKMJUOocb0",
+      "snippet": {
+        "publishedAt": "2022-10-27T13:52:54Z",
+        "channelId": "UC7uDyFIqExDnfXAIZqumFrQ",
+        "title": "사우디 초호화 미러라인, 가능하냐고요?",
+        "description": "#네옴시티 #사우디 #신도시 #네옴더라인 \n\n사우디 초호화 신도시, 가능하냐고요?\n건축가가 보는 네옴시티 더 라인 프로젝트\n\n00:00 ~ 00:25 [인트로] neom city의 the line 프로젝트 \n00:26 ~ 02:20 사막 위 신도시들\n02:21 ~ 05:14  네옴 더 라인, 도대체 뭐길래? \n05:14 ~ 12:38  초대형 미러라인 문제점 분석\n12:38 ~ 16:13 식량 문제도 있다?\n16:13 ~ 16:59 우리나라가 참여한다고?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUKMJUOocb0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUKMJUOocb0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUKMJUOocb0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kUKMJUOocb0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kUKMJUOocb0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "셜록현준",
+        "tags": [
+          "네옴 시티",
+          "네옴 프로젝트",
+          "네옴 더 라인",
+          "네옴",
+          "neom city",
+          "neom",
+          "neom the line",
+          "neom the line project",
+          "미러라인",
+          "미러 라인",
+          "사우디",
+          "사우디 미러라인",
+          "사우디 신도시",
+          "사막 도시",
+          "미래도시",
+          "스마트시티",
+          "네옴시티",
+          "사우디 도시",
+          "사우디 도시계획",
+          "사우디 도시건설",
+          "사우디 the line",
+          "사우디 왕세자"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "사우디 초호화 미러라인, 가능하냐고요?",
+          "description": "#네옴시티 #사우디 #신도시 #네옴더라인 \n\n사우디 초호화 신도시, 가능하냐고요?\n건축가가 보는 네옴시티 더 라인 프로젝트\n\n00:00 ~ 00:25 [인트로] neom city의 the line 프로젝트 \n00:26 ~ 02:20 사막 위 신도시들\n02:21 ~ 05:14  네옴 더 라인, 도대체 뭐길래? \n05:14 ~ 12:38  초대형 미러라인 문제점 분석\n12:38 ~ 16:13 식량 문제도 있다?\n16:13 ~ 16:59 우리나라가 참여한다고?"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2KDo0tOtg4j9D3xVHbuldtBzE1o",
+      "id": "rrU43Kq4FCk",
+      "snippet": {
+        "publishedAt": "2022-10-28T10:00:49Z",
+        "channelId": "UCuvn16uFbrYooJ6k9EqPaMQ",
+        "title": "[방구석ㅈ문가] \"김민재는 옷장같은 선수다\"이탈리아 1등 신문 '가제타'에서 김민재 평점 싹다 긁어옴!",
+        "description": "챠오아뚜띠!🖐 오랜만에 방구석ㅈ문가 시간입니다\n\n김민재 선수는 도대체 언제까지 잘하실 예정인가여????😮\n\n오늘은 가제타 신문의 김민재 선수 평점들 싹다 긁어서 왔어요!\n\n재미있게 시청해주시고 구독, 좋아요, 알림설정은 사랑입니다❣\n\n#알베르토 #김민재  #방구석ㅈ문가 #이탈리아 #세리에A #나폴리 #김민재평점 #가제타신문 #축구 #napoli #알베축구\n제휴 문의 : tvgamondi@gmail.com\n사진 출처 : 게티이미지코리아",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rrU43Kq4FCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rrU43Kq4FCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rrU43Kq4FCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rrU43Kq4FCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rrU43Kq4FCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알베르토 몬디 Alberto Mondi",
+        "tags": [
+          "알베르토",
+          "럭키",
+          "다니엘",
+          "축구",
+          "해외축구",
+          "국내축구",
+          "해축",
+          "축구전문가",
+          "ㅈ문가",
+          "축구해설",
+          "K리그",
+          "이탈리아",
+          "이탈리아 문화",
+          "이태리",
+          "먹방",
+          "썰먹",
+          "Mukbang",
+          "mukbang",
+          "이탈리아 음식",
+          "이탈리아 피자",
+          "피자",
+          "문화",
+          "비정삼회담",
+          "알베르토 축구",
+          "축구 알베르토",
+          "세리에",
+          "알베축구",
+          "흐비차",
+          "키엘리니",
+          "쿨리발리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[방구석ㅈ문가] \"김민재는 옷장같은 선수다\"이탈리아 1등 신문 '가제타'에서 김민재 평점 싹다 긁어옴!",
+          "description": "챠오아뚜띠!🖐 오랜만에 방구석ㅈ문가 시간입니다\n\n김민재 선수는 도대체 언제까지 잘하실 예정인가여????😮\n\n오늘은 가제타 신문의 김민재 선수 평점들 싹다 긁어서 왔어요!\n\n재미있게 시청해주시고 구독, 좋아요, 알림설정은 사랑입니다❣\n\n#알베르토 #김민재  #방구석ㅈ문가 #이탈리아 #세리에A #나폴리 #김민재평점 #가제타신문 #축구 #napoli #알베축구\n제휴 문의 : tvgamondi@gmail.com\n사진 출처 : 게티이미지코리아"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yNrEan-NzizvGOA8Qb59mqFPSTc",
+      "id": "JyBd-qPKqpU",
+      "snippet": {
+        "publishedAt": "2022-10-28T09:00:11Z",
+        "channelId": "UCNYi_zGmR519r5gYdOKLTjQ",
+        "title": "CHANEL Fashion Show vlog",
+        "description": "#JENNIE #제니 #CHANEL #FashionShow #Vlog",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JyBd-qPKqpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JyBd-qPKqpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JyBd-qPKqpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JyBd-qPKqpU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JyBd-qPKqpU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jennierubyjane Official",
+        "tags": [
+          "YG Entertainment",
+          "YG",
+          "와이지",
+          "K-pop",
+          "BLACKPINK",
+          "블랙핑크",
+          "블핑",
+          "제니",
+          "Jennie",
+          "BLINK",
+          "블링크"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "CHANEL Fashion Show vlog",
+          "description": "#JENNIE #제니 #CHANEL #FashionShow #Vlog"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W5zkSDWvKWtTIeL7-wTkd9egu7A",
+      "id": "eUOjZ-Fr-qA",
+      "snippet": {
+        "publishedAt": "2022-10-27T07:21:25Z",
+        "channelId": "UCsNfSIKbJ9QBAegU-2BnlXA",
+        "title": "술 좋아하는 회사원이라면 절대 지나칠 수 없는… 해물포차!! In 서울중앙시장",
+        "description": "#회사원 #서울중앙시장 #출장 #오사카에사는사람들\n안녕하세요? 오사카에사는사람들 입니다.\n오늘은 한국출장가서  즐기는 한국형 회사원편입니다!\n\n부장님이 한국에 갈때마다 무조건 방문하시는 한국의 시장!!\n시간이 많이 없다보니 멀리까지는 가지 못하고\n숙소에 가까웠던 서울중앙시장으로 이동하여\n그 안에서 가장 끌리는 집에 방문했습니다!!\n매운것을 잘 못드시는 부장님이 또 가자 라고 했을만큼\n부장님 입맛에 딱 맞던 해물포차 해녀!!\n촬영 협조를 흔쾌하게 해주시고 즐겁게 영상에 함께해주신\n사장님께 너무 감사드립니다!\n\n시청해주신 구독자분들 시청자분들께 감사드리며\n오늘 하루도 행복하세요!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eUOjZ-Fr-qA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eUOjZ-Fr-qA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eUOjZ-Fr-qA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eUOjZ-Fr-qA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eUOjZ-Fr-qA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오사카에사는사람들TV",
+        "tags": [
+          "한국여행",
+          "마츠다상",
+          "오사카에사는사람들",
+          "오사사",
+          "해물포차",
+          "한국회",
+          "매운탕",
+          "해녀",
+          "서울중앙시장",
+          "한국시장"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "술 좋아하는 회사원이라면 절대 지나칠 수 없는… 해물포차!! In 서울중앙시장",
+          "description": "#회사원 #서울중앙시장 #출장 #오사카에사는사람들\n안녕하세요? 오사카에사는사람들 입니다.\n오늘은 한국출장가서  즐기는 한국형 회사원편입니다!\n\n부장님이 한국에 갈때마다 무조건 방문하시는 한국의 시장!!\n시간이 많이 없다보니 멀리까지는 가지 못하고\n숙소에 가까웠던 서울중앙시장으로 이동하여\n그 안에서 가장 끌리는 집에 방문했습니다!!\n매운것을 잘 못드시는 부장님이 또 가자 라고 했을만큼\n부장님 입맛에 딱 맞던 해물포차 해녀!!\n촬영 협조를 흔쾌하게 해주시고 즐겁게 영상에 함께해주신\n사장님께 너무 감사드립니다!\n\n시청해주신 구독자분들 시청자분들께 감사드리며\n오늘 하루도 행복하세요!!"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5ZSlvAR50ULkfb9luvUVHDZeYyI",
+      "id": "Dc4BrG8HFAI",
+      "snippet": {
+        "publishedAt": "2022-10-28T10:00:11Z",
+        "channelId": "UCOOKj-kWvrsK8CDfHZTw9lw",
+        "title": "중2병(?) 단톡방에 숨은 가짜 중2 찾기 (feat. 이찬혁)｜PIXID",
+        "description": "어둠에 다크에서 죽음의 데스를 느끼며\n서쪽에서 불어오는 바람의 윈드를 맞았다.\n그것은 운명의 데스티니.\n\n#pixid #이찬혁 #akmu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dc4BrG8HFAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dc4BrG8HFAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dc4BrG8HFAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dc4BrG8HFAI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dc4BrG8HFAI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pixid",
+        "tags": [
+          "이찬혁",
+          "찬혁",
+          "leechanhyuk",
+          "chanhyuk",
+          "panorama",
+          "akmu",
+          "악동뮤지션",
+          "yg",
+          "이수현",
+          "kpop",
+          "pixid",
+          "픽시드",
+          "단톡방",
+          "어몽어스",
+          "중2병",
+          "중2"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "중2병(?) 단톡방에 숨은 가짜 중2 찾기 (feat. 이찬혁)｜PIXID",
+          "description": "어둠에 다크에서 죽음의 데스를 느끼며\n서쪽에서 불어오는 바람의 윈드를 맞았다.\n그것은 운명의 데스티니.\n\n#pixid #이찬혁 #akmu"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q3uk5gfYc9bwNfz0NOuULXDzxUI",
+      "id": "UFhvNUvK0Sw",
+      "snippet": {
+        "publishedAt": "2022-10-28T17:20:50Z",
+        "channelId": "UCepUWUpH45hRTi-QePdq1Bg",
+        "title": "[#SMTM11/풀버전] 던말릭 @2차 예선 {60초 팀 래퍼 캐스팅}　#쇼미더머니11 EP.2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\\n\\n[#SMTM11/풀버전] 던말릭 @2차 예선 {60초 팀 래퍼 캐스팅}\n\nWHO'S THE NEW ONE?\n＜쇼미더머니11＞ 매주 (금) 밤 11시 본방송\n\n🎤〈SMTM11〉 Homepage : www.smtm11.com\n🎤〈SMTM11〉 Instgram : https://www.instagram.com/mnet_hiphop/\\n🎤〈SMTM11〉 Facebook :  https://www.facebook.com/mnethiphop\\n🎤〈SMTM11〉 Twitter : https://twitter.com/mnet_hiphop\\n\\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UFhvNUvK0Sw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UFhvNUvK0Sw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UFhvNUvK0Sw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UFhvNUvK0Sw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UFhvNUvK0Sw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mnet TV",
+        "tags": [
+          "Hiphop",
+          "Mnet",
+          "SMTM",
+          "SMTM11",
+          "ShowMeTheMoney",
+          "ShowMeTheMoney11",
+          "rapper",
+          "래퍼",
+          "쇼미",
+          "쇼미11",
+          "쇼미더머니",
+          "쇼미더머니11",
+          "엠넷",
+          "티빙에서스트리밍",
+          "힙합"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[#SMTM11/풀버전] 던말릭 @2차 예선 {60초 팀 래퍼 캐스팅}　#쇼미더머니11 EP.2",
+          "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\\n\\n[#SMTM11/풀버전] 던말릭 @2차 예선 {60초 팀 래퍼 캐스팅}\n\nWHO'S THE NEW ONE?\n＜쇼미더머니11＞ 매주 (금) 밤 11시 본방송\n\n🎤〈SMTM11〉 Homepage : www.smtm11.com\n🎤〈SMTM11〉 Instgram : https://www.instagram.com/mnet_hiphop/\\n🎤〈SMTM11〉 Facebook :  https://www.facebook.com/mnethiphop\\n🎤〈SMTM11〉 Twitter : https://twitter.com/mnet_hiphop\\n\\n#티빙에서스트리밍"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lmKqTS61D3iJjPC-IR1cZk9ygbw",
+      "id": "IJ4Tn-HO9Zo",
+      "snippet": {
+        "publishedAt": "2022-10-26T10:27:43Z",
+        "channelId": "UCPde4guD9yFBRzkxk2PatoA",
+        "title": "[COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455",
+        "description": "[COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드)\n\n#쇼챔피언 #GIDLE #Nxde\n\n\n★All about KPOP! Subscribe now★\nhttps://bit.ly/2XR37jV\n\nGlobal No.1 KPOP IDOL CHANNEL, ALL THE K-POP! \nCopyrightⓒ MBC PLUS, All Rights Reserved. \n------------------------------------------------------\n* twitter : https://twitter.com/ALLTHEKPOP \n* facebook : http://facebook.com/allthekpop.idol \n* tiktok : https://www.tiktok.com/@allthekpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IJ4Tn-HO9Zo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IJ4Tn-HO9Zo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IJ4Tn-HO9Zo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IJ4Tn-HO9Zo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IJ4Tn-HO9Zo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ALL THE K-POP",
+        "tags": [
+          "(G)I-DLE",
+          "쇼챔피언 (여자)아이들",
+          "쇼챔 (여자)아이들",
+          "쇼챔 (G)I-DLE",
+          "쇼챔피언 (G)I-DLE",
+          "(여자)아이들 노래",
+          "(여자)아이들 춤",
+          "(여자)아이들 누드",
+          "(G)I-DLE Nxde",
+          "showchampion (G)I-DLE",
+          "(여자)아이들",
+          "(G)I-DLE Nxde showchampion",
+          "쇼챔피언 455",
+          "쇼챔 455",
+          "showchampion 455",
+          "쇼챔",
+          "케이팝",
+          "kpop",
+          "allthekpop",
+          "올더케이팝",
+          "가수",
+          "아이돌",
+          "보이그룹",
+          "걸그룹",
+          "직캠",
+          "아이돌그룹",
+          "팬캠"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "[COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드) l Show Champion l EP.455",
+          "description": "[COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드)\n\n#쇼챔피언 #GIDLE #Nxde\n\n\n★All about KPOP! Subscribe now★\nhttps://bit.ly/2XR37jV\n\nGlobal No.1 KPOP IDOL CHANNEL, ALL THE K-POP! \nCopyrightⓒ MBC PLUS, All Rights Reserved. \n------------------------------------------------------\n* twitter : https://twitter.com/ALLTHEKPOP \n* facebook : http://facebook.com/allthekpop.idol \n* tiktok : https://www.tiktok.com/@allthekpop_official"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4ldJ_LFKEdnxOvXhmNw_ji0N_V8",
+      "id": "WlbtnBWU860",
+      "snippet": {
+        "publishedAt": "2022-10-28T09:00:10Z",
+        "channelId": "UCyuL_XQ-AtzXnpNf_hdmkhw",
+        "title": "[ENG]\"오빠 뒤통수 딱! 대!\" | 지석진X송지효",
+        "description": "🧡오늘의 영상 좌표🧡\n\n00:19 자~ 시작해볼까\n00:54 그래서 2편은 누규?\n01:12 런닝맨의 영원한 에이스!\n02:19 💜웰컴 지효💜\n02:47 출 to the 발\n03:00 가짜의 삶\n04:05 메이크업 하나도 안하고 해도 돼?\n05:04 여기까진 뭐 타고 왔어?\n05:53 드라이 부스루(?)\n07:07 숨은 케미 맛집 / 석진과지효\n08:23 아는 선배의 투자 스토리\n09:05 벌레 트라우마 썰\n10:34 발리에서 생긴 일 / 그래서 화장실에서 잤어요...\n11:10 마카오 번지점프 비하인드 썰\n13:04 네비스 스윙 비하인드 썰\n14:56 까도 까도 계속 나오는 회식 썰\n15:33 회식 썰 - 지석진 시점\n16:48 왜 나 빼고 찍어\n17:15 집에 빨리 갔다면 다~ 이유가 있어\n19:14 한편으로는 너무 아쉽자나~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WlbtnBWU860/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WlbtnBWU860/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WlbtnBWU860/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WlbtnBWU860/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WlbtnBWU860/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지편한세상 [Jeeseokjin World]",
+        "tags": [
+          "지석진 말실수",
+          "지석진 레전드",
+          "지석진 주식",
+          "유재석",
+          "지석진 대상",
+          "김종국",
+          "런닝맨",
+          "지석진 명예사원상",
+          "송지효",
+          "지석진 수상소감",
+          "지석진 세포",
+          "지석진 이경규",
+          "지석진 연예대상",
+          "지석진 양세찬",
+          "지석진 전소민",
+          "지석진 최우수상",
+          "ji seokjin",
+          "jeeseokjin world",
+          "ji suk jin world",
+          "ji seokjin dynamite",
+          "ji suk jin song",
+          "ji suk jin funny moments",
+          "ji suk jin running man",
+          "ji seok jin channel",
+          "ji seokjin wife",
+          "ji suk jin youtube",
+          "wlvustp",
+          "wltjrwls",
+          "먹방",
+          "카페",
+          "카페투어",
+          "김수용",
+          "지석진 김수용",
+          "쟁반샷",
+          "성수카페",
+          "나혼자산다",
+          "소금빵",
+          "인생네컷",
+          "하루필름",
+          "인생네컷포즈",
+          "성수카페투어",
+          "성수맛집",
+          "성수",
+          "데이트코스",
+          "데이트코스추천",
+          "디저트 먹방",
+          "커피투어",
+          "커피"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[ENG]\"오빠 뒤통수 딱! 대!\" | 지석진X송지효",
+          "description": "🧡오늘의 영상 좌표🧡\n\n00:19 자~ 시작해볼까\n00:54 그래서 2편은 누규?\n01:12 런닝맨의 영원한 에이스!\n02:19 💜웰컴 지효💜\n02:47 출 to the 발\n03:00 가짜의 삶\n04:05 메이크업 하나도 안하고 해도 돼?\n05:04 여기까진 뭐 타고 왔어?\n05:53 드라이 부스루(?)\n07:07 숨은 케미 맛집 / 석진과지효\n08:23 아는 선배의 투자 스토리\n09:05 벌레 트라우마 썰\n10:34 발리에서 생긴 일 / 그래서 화장실에서 잤어요...\n11:10 마카오 번지점프 비하인드 썰\n13:04 네비스 스윙 비하인드 썰\n14:56 까도 까도 계속 나오는 회식 썰\n15:33 회식 썰 - 지석진 시점\n16:48 왜 나 빼고 찍어\n17:15 집에 빨리 갔다면 다~ 이유가 있어\n19:14 한편으로는 너무 아쉽자나~"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "k4XtupzAEu8QxRZPe7EnHdJ18-Y",
+      "id": "5shme40Tgqg",
+      "snippet": {
+        "publishedAt": "2022-10-28T03:00:04Z",
+        "channelId": "UCgeeQuH16jS4UEOIxc-kwoQ",
+        "title": "[트레일러 선공개] 올겨울 쇼핑 #웰메이드 로 한 번에! with #임영웅",
+        "description": "[ WHEN HERO CAME TO TOWN ]\n웰메이드 X 임영웅, 올겨울 쇼핑 캠페인 \n트레일러 깜짝 선공개! \n\n코듀로이 점퍼도, 윈터 자켓도, 다운 사파리도\n올겨울 쇼핑, 웰메이드로 한 번에! \nCOMING SOON.\n\n―\n2022년 11월 1일 오후 5시, \n웰메이드 유튜브 채널에서 풀버전 영상 및 \n역대급 이벤트가 공개될 예정입니다. \n구독&알림설정으로 응원해주세요🥰\n\n―\n📍 영상 속 HERO 스타일 자세히보기 (~50% OFF)\n　: https://bit.ly/3swwkOG\\n📍 전국 웰메이드 매장찾기 \n　: https://bit.ly/3D2p1D8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5shme40Tgqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5shme40Tgqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5shme40Tgqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5shme40Tgqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5shme40Tgqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "웰메이드",
+        "tags": [
+          "웰메이드",
+          "임영웅",
+          "임영웅유튜브",
+          "인디안",
+          "임영웅광고",
+          "브루노바피",
+          "임영웅노래",
+          "임영웅화보",
+          "임영웅shorts",
+          "임영웅영상",
+          "영웅시대",
+          "영웅",
+          "히어로",
+          "웰메이드임영웅",
+          "임영웅패션",
+          "시즌오프",
+          "인디안세일",
+          "웰메이드세일",
+          "브루노바피세일",
+          "인디안할인",
+          "임영웅추천",
+          "인디안신상",
+          "임영웅인디안",
+          "임영웅브루노바피",
+          "임영웅정장",
+          "임영웅수트",
+          "임영웅광고메이킹",
+          "웰메이드셋업",
+          "임영웅셋업",
+          "브루노바피셋업",
+          "임영웅점퍼",
+          "임영웅자켓",
+          "임영웅패딩",
+          "임영웅아우터",
+          "웬히어로가마을에들어섰을때",
+          "when hero came to town",
+          "올겨울 쇼핑 웰메이드로 한 번에",
+          "겨울쇼핑",
+          "히어로겨울룩",
+          "영웅룩",
+          "올겨울쇼핑캠페인",
+          "히어로아우터",
+          "HERO아우터",
+          "웰메이드예고편",
+          "예고편"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[트레일러 선공개] 올겨울 쇼핑 #웰메이드 로 한 번에! with #임영웅",
+          "description": "[ WHEN HERO CAME TO TOWN ]\n웰메이드 X 임영웅, 올겨울 쇼핑 캠페인 \n트레일러 깜짝 선공개! \n\n코듀로이 점퍼도, 윈터 자켓도, 다운 사파리도\n올겨울 쇼핑, 웰메이드로 한 번에! \nCOMING SOON.\n\n―\n2022년 11월 1일 오후 5시, \n웰메이드 유튜브 채널에서 풀버전 영상 및 \n역대급 이벤트가 공개될 예정입니다. \n구독&알림설정으로 응원해주세요🥰\n\n―\n📍 영상 속 HERO 스타일 자세히보기 (~50% OFF)\n　: https://bit.ly/3swwkOG\\n📍 전국 웰메이드 매장찾기 \n　: https://bit.ly/3D2p1D8"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JlNsjm4Sla5-rxitk6La5dkYYHY",
+      "id": "-XnydjqlWyo",
+      "snippet": {
+        "publishedAt": "2022-10-26T11:00:00Z",
+        "channelId": "UC9LcN9O8amxNcfu0fwGqwgQ",
+        "title": "(ENG) 텐션 더 높이 가줄게~ᕦ( ᐛ )ᕡ 수련회장 뒤집어놓고 간 핌둥이들🤭 | 돌들의침묵 | LE SSERAFIM (르세라핌) 'ANTIFRAGILE'",
+        "description": "텐션 더 높이 가줄게ᕦ( ᐛ )ᕡ ~\n수련회 처음부터 끝까지 폭주하는 핌둥이들 예능감｡^‿^｡\n\n\"본 교관 이런 학생들 처음입니다😨\"\n교관 제대로 Fear하게 만든\n핌망친창 돌침 수련회 개봉박두! \n안티티티 프레쟈~ 안티티티 프레쟈~🥨\n\n[르세라핌 돌들의 침묵 스케줄🕐]\n10/27 20:30 잠옷 퍼포먼스🧦\n10/27 21:00 수면 영상😴\n#돌들의침묵 #르세라핌 #LE_SSERAFIM #ANTIFRAGILE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-XnydjqlWyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-XnydjqlWyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-XnydjqlWyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-XnydjqlWyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-XnydjqlWyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MUPLY 뮤플리",
+        "tags": [
+          "르세라핌",
+          "LESSERAFIM",
+          "김채원",
+          "허윤진",
+          "사쿠라",
+          "홍은채",
+          "ANTIFRAGILE",
+          "KIMCHAEWON",
+          "HUHYUNJIN",
+          "HONG EUNCHAE",
+          "SAKURA",
+          "카즈하",
+          "KAZUHA",
+          "하이브",
+          "르세라핌 케미",
+          "르세라핌 예능",
+          "웃긴 르세라핌",
+          "여자아이돌",
+          "걸그룹",
+          "걸그룹 레전드",
+          "걸그룹 직캠",
+          "아이돌 예능",
+          "아이돌 인간극장",
+          "튀르키예즈",
+          "유퀴즈",
+          "예능",
+          "웃긴 숏츠",
+          "KPOP",
+          "KPOP MEME",
+          "KPOP EDIT",
+          "LESSERAFIM EDIT",
+          "르세라핌 축제",
+          "뮤플리",
+          "돌들의침묵",
+          "10월 신곡",
+          "플레이리스트"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "(ENG) 텐션 더 높이 가줄게~ᕦ( ᐛ )ᕡ 수련회장 뒤집어놓고 간 핌둥이들🤭 | 돌들의침묵 | LE SSERAFIM (르세라핌) 'ANTIFRAGILE'",
+          "description": "텐션 더 높이 가줄게ᕦ( ᐛ )ᕡ ~\n수련회 처음부터 끝까지 폭주하는 핌둥이들 예능감｡^‿^｡\n\n\"본 교관 이런 학생들 처음입니다😨\"\n교관 제대로 Fear하게 만든\n핌망친창 돌침 수련회 개봉박두! \n안티티티 프레쟈~ 안티티티 프레쟈~🥨\n\n[르세라핌 돌들의 침묵 스케줄🕐]\n10/27 20:30 잠옷 퍼포먼스🧦\n10/27 21:00 수면 영상😴\n#돌들의침묵 #르세라핌 #LE_SSERAFIM #ANTIFRAGILE"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "F17rGXWAyCyB5ZqJ-kzSWOdhRIk",
+      "id": "Y95ronCEAuk",
+      "snippet": {
+        "publishedAt": "2022-10-27T09:00:16Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[단독샷캠4K] 르세라핌 'ANTIFRAGILE' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE @SBS Inkigayo 221023",
+        "description": "[단독샷캠4K] 르세라핌 'ANTIFRAGILE' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE @SBS Inkigayo 221023\n(Ft. 스탠다드 별도녹화)\n\n#인기가요 #르세라핌 #ANTIFRAGILE\n---------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\\nFacebook : https://www.facebook.com/sbskpop\\nInstagram : https://instagram.com/sbskpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y95ronCEAuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y95ronCEAuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y95ronCEAuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y95ronCEAuk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y95ronCEAuk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "tags": [
+          "Inkigayo",
+          "인기가요직캠",
+          "안방1열직캠",
+          "스브스케이팝",
+          "스브스 직캠",
+          "인기가요",
+          "인가",
+          "음방",
+          "음악방송",
+          "르세라핌",
+          "LE SSERAFIM",
+          "ANTIFRAGILE",
+          "르세라핌 컴백",
+          "르세라핌 인가",
+          "르세라핌 인기가요",
+          "르세라핌 직캠",
+          "르세라핌 페이스캠",
+          "르세라핌 무대",
+          "르세라핌 안무",
+          "르세라핌 신곡",
+          "쏘스뮤직",
+          "사쿠라",
+          "김채원",
+          "허윤진",
+          "카즈하",
+          "홍은채",
+          "SAKURA",
+          "KIM CHAEWON",
+          "HUH YUNJIN",
+          "KAZUHA",
+          "HONG EUNCHAE"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[단독샷캠4K] 르세라핌 'ANTIFRAGILE' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE @SBS Inkigayo 221023",
+          "description": "[단독샷캠4K] 르세라핌 'ANTIFRAGILE' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE @SBS Inkigayo 221023\n(Ft. 스탠다드 별도녹화)\n\n#인기가요 #르세라핌 #ANTIFRAGILE\n---------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\\nFacebook : https://www.facebook.com/sbskpop\\nInstagram : https://instagram.com/sbskpop_official"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "q1Qe0E9qQD6cj_f0H4GwfVUlKDI",
+      "id": "q4PF1UEGdQw",
+      "snippet": {
+        "publishedAt": "2022-10-28T17:11:22Z",
+        "channelId": "UCepUWUpH45hRTi-QePdq1Bg",
+        "title": "[#SMTM11/풀버전] 폴로다레드 @2차 예선 {60초 팀 래퍼 캐스팅}　#쇼미더머니11 EP.2",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\\n\\n[#SMTM11/풀버전] 폴로다레드 @2차 예선 {60초 팀 래퍼 캐스팅}\n\nWHO'S THE NEW ONE?\n＜쇼미더머니11＞ 매주 (금) 밤 11시 본방송\n\n🎤〈SMTM11〉 Homepage : www.smtm11.com\n🎤〈SMTM11〉 Instgram : https://www.instagram.com/mnet_hiphop/\\n🎤〈SMTM11〉 Facebook :  https://www.facebook.com/mnethiphop\\n🎤〈SMTM11〉 Twitter : https://twitter.com/mnet_hiphop\\n\\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q4PF1UEGdQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q4PF1UEGdQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q4PF1UEGdQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q4PF1UEGdQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q4PF1UEGdQw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mnet TV",
+        "tags": [
+          "Hiphop",
+          "Mnet",
+          "SMTM",
+          "SMTM11",
+          "ShowMeTheMoney",
+          "ShowMeTheMoney11",
+          "rapper",
+          "래퍼",
+          "쇼미",
+          "쇼미11",
+          "쇼미더머니",
+          "쇼미더머니11",
+          "엠넷",
+          "티빙에서스트리밍",
+          "힙합"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[#SMTM11/풀버전] 폴로다레드 @2차 예선 {60초 팀 래퍼 캐스팅}　#쇼미더머니11 EP.2",
+          "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\\n\\n[#SMTM11/풀버전] 폴로다레드 @2차 예선 {60초 팀 래퍼 캐스팅}\n\nWHO'S THE NEW ONE?\n＜쇼미더머니11＞ 매주 (금) 밤 11시 본방송\n\n🎤〈SMTM11〉 Homepage : www.smtm11.com\n🎤〈SMTM11〉 Instgram : https://www.instagram.com/mnet_hiphop/\\n🎤〈SMTM11〉 Facebook :  https://www.facebook.com/mnethiphop\\n🎤〈SMTM11〉 Twitter : https://twitter.com/mnet_hiphop\\n\\n#티빙에서스트리밍"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Xv8ufcFyt7Lg9O_zQ-cVHZpfDXk",
+      "id": "4xmY2YDEikQ",
+      "snippet": {
+        "publishedAt": "2022-10-26T09:00:02Z",
+        "channelId": "UCdTDdygpZKdDew2s1s419iw",
+        "title": "유럽 털고 다닌 유망주들의 최신 근황ㄷㄷㄷ 차범근 감독님을 감탄하게한 기술은 무엇...! ㅣ 매치볼드림 EP.1 ㅣ기아 X 슛포러브",
+        "description": "15명의 아이들 중 5명만 카타르에 가게 되는 이번 프로젝트!\n\n어떤 감독님들이 어떤 아이들을 선택했을까요?!\n\n\n그리고 '그'의 슛포러브 등장... \n\n==\n\n슛포러브 더 보기 :\n\nFacebook : http://facebook.com/shoot4love\\nInstagram : http://instagram.com/shoot_for_love/\\n\\n#Worldcup #KiaOMBC #MatchBallDream #Kia #MovementThatInspires #EV6",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4xmY2YDEikQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4xmY2YDEikQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4xmY2YDEikQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4xmY2YDEikQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4xmY2YDEikQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슛포러브",
+        "tags": [
+          "슛포러브",
+          "매치볼드림",
+          "기아",
+          "축구",
+          "유망주",
+          "김예건",
+          "차범근",
+          "조원희",
+          "이영표",
+          "김병지",
+          "kia",
+          "풋살",
+          "대회",
+          "카타르",
+          "월드컵",
+          "카타르월드컵"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "유럽 털고 다닌 유망주들의 최신 근황ㄷㄷㄷ 차범근 감독님을 감탄하게한 기술은 무엇...! ㅣ 매치볼드림 EP.1 ㅣ기아 X 슛포러브",
+          "description": "15명의 아이들 중 5명만 카타르에 가게 되는 이번 프로젝트!\n\n어떤 감독님들이 어떤 아이들을 선택했을까요?!\n\n\n그리고 '그'의 슛포러브 등장... \n\n==\n\n슛포러브 더 보기 :\n\nFacebook : http://facebook.com/shoot4love\\nInstagram : http://instagram.com/shoot_for_love/\\n\\n#Worldcup #KiaOMBC #MatchBallDream #Kia #MovementThatInspires #EV6"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
